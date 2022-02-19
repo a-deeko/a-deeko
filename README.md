@@ -1,4 +1,4 @@
-### Hey 👋
+### Hello 👋
 My name is Faiz and I'm a first year computer science student in UK.
 
 🔭 I’m interested in
