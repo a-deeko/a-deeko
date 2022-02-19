@@ -10,7 +10,7 @@ My name is Faiz and I'm a first year computer science student in UK.
 - CSS
 - JavaScript
 
-📫 [Reach me via LinkedIn](linkedin.com/in/wan-amir-faiz-w-69155021b/)
+📫 [Reach me via LinkedIn](https://www.linkedin.com/in/wanamirfaiz/)
 
 <!---
 a-deeko/a-deeko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
