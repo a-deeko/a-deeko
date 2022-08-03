@@ -6,9 +6,8 @@ My name is Faiz and I'm a first year computer science student in UK.
 - Mobile development
 
 🌱 I’m currently learning
-- HTML
-- CSS
-- JavaScript
+- REST APIs
+- Rust
 
 📫 [Reach me via LinkedIn](https://www.linkedin.com/in/wanamirfaiz/)
 
