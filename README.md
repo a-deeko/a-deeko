@@ -7,7 +7,7 @@ My name is Faiz and I'm a first year computer science student in UK.
 
 🌱 I’m currently learning
 - REST APIs
-- Rust
+- ASP.NET
 
 📫 [Reach me via LinkedIn](https://www.linkedin.com/in/wanamirfaiz/)
 
