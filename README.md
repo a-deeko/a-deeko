@@ -1,4 +1,4 @@
-### Hello 👋
+## Hello 👋
 My name is Faiz and I'm a second year computer science student in UK.
 
 🔭 I’m currently working on a website that gives users context behind twitter trends happening around the world<br>🌱 I’m currently learning:<br> -Next.js <br> -React <br> -REST APIS
