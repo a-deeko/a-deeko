@@ -18,7 +18,7 @@ My name is Faiz and I'm a second year computer science student in UK.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-📫 [Reach me via LinkedIn](https://www.linkedin.com/in/wanamirfaiz/)
+
 
 <!---
 a-deeko/a-deeko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
