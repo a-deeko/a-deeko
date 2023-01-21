@@ -1,5 +1,5 @@
 ## Hello 👋
-My name is Faiz and I'm a second year computer science student in UK.
+My name is Faiz and I'm a second year computer science student in the UK.
 
 🔭 I’m currently working on a website that gives users context behind twitter trends happening around the world<br>🌱 I’m currently learning:<br> 
 * Next.js 
@@ -16,7 +16,6 @@ My name is Faiz and I'm a second year computer science student in UK.
 ---
 [![](https://visitcount.itsvg.in/api?id=wrainf&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
